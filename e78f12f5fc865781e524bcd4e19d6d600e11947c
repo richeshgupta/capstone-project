@@ -1,0 +1,23 @@
+ledger/__init__.py
+  s_7b84bed9331296::t_9787943950afb5 1-6
+ledger/store.py
+  s_7b84bed9331296::t_05b6618b6debba 1-74
+ledger/api.py
+  s_7b84bed9331296::t_e567969a3897eb 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e78f12f5fc865781e524bcd4e19d6d600e11947c",
+  "prompts": {},
+  "sessions": {
+    "s_7b84bed9331296": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "953fa79d-f2ce-49e9-a7d1-ef71efb03e6c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Richesh Gupta <rgrichesh45@gmail.com>"
+    }
+  }
+}
