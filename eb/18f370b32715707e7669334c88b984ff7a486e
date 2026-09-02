@@ -1,0 +1,21 @@
+generated/fixture_table_0.py
+  s_7b84bed9331296::t_7324fdb435c2b7 1-65003
+generated/fixture_table_1.py
+  s_7b84bed9331296::t_6821fd1436d064 1-65003
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "eb18f370b32715707e7669334c88b984ff7a486e",
+  "prompts": {},
+  "sessions": {
+    "s_7b84bed9331296": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "953fa79d-f2ce-49e9-a7d1-ef71efb03e6c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Richesh Gupta <richesh.gupta@razorpay.com>"
+    }
+  }
+}
